@@ -2,7 +2,7 @@
 - 1 Installation
 - 2 Project Motivation
 - 3 File descriptions
-- 4 Results)
+- 4 Results
 - 5 Licensing, Authors, Acknowledgements
 
 ## 1 Installation
