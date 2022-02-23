@@ -1,9 +1,9 @@
 ## Table of contents
-- [1 Installation](##1-installation)
-- [2 Project Motivation](##2-project-motivation)
-- [3 File descriptions](##3-file-descriptions)
-- [4 Results](##4-resuts)
-- [5 Licensing, Authors, Acknowledgements](##5-licensing,-authors,-acknowledgements)
+- 1 Installation
+- 2 Project Motivation
+- 3 File descriptions
+- 4 Results)
+- 5 Licensing, Authors, Acknowledgements
 
 ## 1 Installation
 All libraries used in this code should be used in the standard Anaconda distribution of Python.
@@ -36,7 +36,6 @@ The structure is based on the CRISP-DM Data Science process - additional markdow
 Additionally the two .csv files containing the AirBnB data from Boston and Seattle are included.
 
 ## 4 Results
-
 The answers to the research questions and the main findings can be found [here](https://medium.com/mlearning-ai/how-much-is-your-property-worth-on-airbnb-542bc285dfa).
 
 ## 5 Licensing, Authors, Acknowledgements
